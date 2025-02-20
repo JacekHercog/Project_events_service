@@ -1,0 +1,15 @@
+Spotkanie Zarządu;15-03-2025
+Konferencja IT;25-02-2025
+Warsztaty Programistyczne;10-05-2025
+Webinar Marketingowy;05-05-2025
+Szkolenie HR;25-02-2025
+Prezentacja Produktu;28-04-2025
+Konferencja Naukowa;12-05-2025
+Spotkanie Projektowe;03-03-2025
+Gala Firmowa;25-02-2025
+Warsztaty Online;21-05-2025
+Spotkanie Networkingowe;20-03-2025
+Panel Dyskusyjny;14-05-2025
+Prezentacja Strategii;02-04-2025
+Szkolenie Techniczne;21-05-2025
+Webinar Branżowy;21-05-2025
