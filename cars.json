@@ -1,0 +1,59 @@
+    {
+        "cars": [
+            {
+            "model": "AUDI",
+            "price": 150,
+            "color": "BLACK",
+            "mileage": 22000,
+            "components": [
+                "ABS",
+                "ALLOY WHEELS"
+                ]
+        }, 
+            {
+            "model": "MAZDA",
+            "price": 250,
+            "color": "WHITE",
+            "mileage": 2000,
+            "components": [
+                "HEAT SEATS",
+                "BLUETOOTH"
+                ]
+            }
+            , 
+            {
+            "model": "TOYOTA",
+            "price": 250,
+            "color": "RED",
+            "mileage": 2500,
+                "components": [
+                "CAMERA",
+                "BLUETOOTH",
+                "AIR CONDITIONING"
+                ]
+            }
+            , 
+            {
+            "model": "KIA",
+            "price": 120,
+            "color": "BLACK",
+            "mileage": 1000,
+            "components": [
+                "AIR CONDITIONING",
+                "BLUETOOTH"
+                ]
+            }
+            , 
+            {
+            "model": "TOYOTA",
+            "price": 250,
+            "color": "WHITE",
+            "mileage": 2700,
+            "components": [
+                "CAMERA",
+                "BLUETOOTH"
+                ]
+            }       
+        ]
+    }
+        
